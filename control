@@ -1,9 +1,9 @@
 Package: com.luki.reachspring
 Name: ReachSpring
-Version: 1.0
+Version: 2.0
 Architecture: iphoneos-arm
 Description: Trigger respring like a god invoking the reachability gesture
 Maintainer: Luki
 Author: Luki
 Section: Tweaks
-Depends: mobilesubstrate (>= 0.9.5000)
+Depends: mobilesubstrate
